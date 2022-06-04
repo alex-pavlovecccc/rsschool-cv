@@ -13,7 +13,7 @@
 
 
 ## **Skills**:
-****************
+
 * HTML (basic)
 * CSS (basic)
 * Git
@@ -26,9 +26,9 @@
     + Delegate 
 * OOP
 * Xcode
+****************
 
 ### ***Code example***:
-***************
 ```
 class NetworkService {
     
@@ -55,16 +55,18 @@ class NetworkService {
     }
 }
 ```
+***************
 
 ## **Experience**:
+
 ****************
 
     
 ## **Education**:
-*****************
 1. Music College named after М.I GLINKA
 2. Belarusian-Russian University faculty of Distance Learning
 
+*****************
 ## **English**:
 A2
 
