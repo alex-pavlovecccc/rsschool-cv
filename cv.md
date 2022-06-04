@@ -62,9 +62,9 @@ class NetworkService {
     
 ## **Education**:
 *****************
-1. 
-2. Belarusian-Russian University
-3.
+1. Music College named after М.I GLINKA
+2. Belarusian-Russian University faculty of Distance Learning
+
 ## **English**:
 A2
 
