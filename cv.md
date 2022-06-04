@@ -11,7 +11,6 @@
 ## **About Myself**:
 ****************
 
-
 ## **Skills**:
 
 * HTML (basic)
@@ -59,14 +58,11 @@ class NetworkService {
 
 ## **Experience**:
 
-****************
-
-    
-## **Education**:
-1. Music College named after М.I GLINKA
-2. Belarusian-Russian University faculty of Distance Learning
-
 *****************
 ## **English**:
 A2
+****************
 
+## **Education**:
+1. Music College named after М.I GLINKA
+2. Belarusian-Russian University faculty of Distance Learning
